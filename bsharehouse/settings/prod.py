@@ -24,3 +24,4 @@ DATABASES = {
         'HOST' : 'bsharehousedb.convlvgvotec.us-west-2.rds.amazonaws.com',
         'PORT' : '5432',
     }
+}
