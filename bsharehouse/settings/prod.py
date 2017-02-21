@@ -4,7 +4,7 @@ DEBUG = False
 
 TEMPLATE_DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["52.41.125.25", "bostonsharehouse.com"]
 
 
 # Link the S3 instance
