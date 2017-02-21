@@ -15,5 +15,8 @@
   "license": "GPL",
   "bugs": {
     "url": "https://github.com/Spaghet/bsharehousepage/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.1"
   }
 }
